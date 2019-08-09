@@ -1,1 +1,3 @@
-123
+#include <test.h>
+
+void fuckYou(void);
