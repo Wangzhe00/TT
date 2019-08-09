@@ -1,0 +1,3 @@
+C:/Users/WangZhe/Desktop/Test/CLion/test_github_dct/cmake-build-debug/CMakeFiles/test_github_dct.dir
+C:/Users/WangZhe/Desktop/Test/CLion/test_github_dct/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/WangZhe/Desktop/Test/CLion/test_github_dct/cmake-build-debug/CMakeFiles/rebuild_cache.dir
