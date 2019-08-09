@@ -11,4 +11,5 @@ void fuckYou(void)
 
     printf("fuck u5\n");
     printf("fuck u6n");
+    printf("fuck u7n");
 }
