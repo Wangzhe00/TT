@@ -6,5 +6,9 @@ void fuckYou(void)
     printf("fuck u\n");
     printf("fuck u2\n");
     printf("fuck u3\n");
+
     printf("fuck u4\n");
+
+    printf("fuck u5\n");
+    printf("fuck u6n");
 }
