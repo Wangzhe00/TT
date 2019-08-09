@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "C:/Users/WangZhe/Desktop/Test/CLion/test_github_dct/main.c" "C:/Users/WangZhe/Desktop/Test/CLion/test_github_dct/cmake-build-debug/CMakeFiles/test_github_dct.dir/main.c.obj"
-  "C:/Users/WangZhe/Desktop/Test/CLion/test_github_dct/transform.c" "C:/Users/WangZhe/Desktop/Test/CLion/test_github_dct/cmake-build-debug/CMakeFiles/test_github_dct.dir/transform.c.obj"
+  "/home/zxd/workspace/ccpp/TT/main.c" "/home/zxd/workspace/ccpp/TT/cmake-build-debug/CMakeFiles/test_github_dct.dir/main.c.o"
+  "/home/zxd/workspace/ccpp/TT/transform.c" "/home/zxd/workspace/ccpp/TT/cmake-build-debug/CMakeFiles/test_github_dct.dir/transform.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

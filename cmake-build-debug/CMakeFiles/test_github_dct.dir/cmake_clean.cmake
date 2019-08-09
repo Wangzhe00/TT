@@ -1,10 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/test_github_dct.dir/main.c.obj"
-  "CMakeFiles/test_github_dct.dir/transform.c.obj"
+  "CMakeFiles/test_github_dct.dir/main.c.o"
+  "CMakeFiles/test_github_dct.dir/transform.c.o"
   "test_github_dct.pdb"
-  "test_github_dct.exe"
-  "test_github_dct.exe.manifest"
-  "libtest_github_dct.dll.a"
+  "test_github_dct"
 )
 
 # Per-language clean rules from dependency scanning.
